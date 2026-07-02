@@ -3,6 +3,43 @@
 
 I am a Software Engineer specializing in modern frontend & mobile frameworks integrated with robust backend systems. I design, test, and maintain high-performance full-stack applications to solve complex real-world problems.
 
+<div align="center">
+  <svg fill="none" viewBox="0 0 800 60" width="100%" height="60" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+          @keyframes marquee {
+            0% { transform: translateX(100%); }
+            100% { transform: translateX(-100%); }
+          }
+          .marquee-container {
+            width: 100%;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            height: 60px;
+          }
+          .gradient-text {
+            font-family: 'Outfit', 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            font-size: 26px;
+            font-weight: 800;
+            letter-spacing: -0.5px;
+            background: linear-gradient(90deg, #FF3E3E, #FF7B00, #FFD000);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            white-space: nowrap;
+            display: inline-block;
+            animation: marquee 16s linear infinite;
+          }
+        </style>
+        <div class="marquee-container">
+          <span class="gradient-text">Designing robust, scalable and intelligent systems</span>
+        </div>
+      </div>
+    </foreignObject>
+  </svg>
+</div>
+
 ---
 
 ### 🛠️ Technical Arsenal
