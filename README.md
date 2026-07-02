@@ -11,7 +11,7 @@ I am a Software Engineer specializing in modern frontend & mobile frameworks int
 | :--- | :--- |
 | **Frontend & Mobile** | React, Next.js, Vite, TypeScript, Flutter, React Native, Dart |
 | **Backend & Databases** | Express.js, PostgreSQL, SQLite, Prisma ORM, Firebase, Socket.io |
-| **AI & Machine Learning** | TensorFlow Lite (Edge ML), Gemini API, OpenAI API, PyTorch, Python |
+| **AI & Machine Learning** | TensorFlow Lite (Edge ML), PyTorch, Python |
 | **Tools & DevOps** | Git & GitHub, Docker, Expo, Vercel |
 
 ---
