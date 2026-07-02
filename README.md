@@ -28,5 +28,5 @@ I am a Software Engineer specializing in modern frontend & mobile frameworks int
 ### 📬 Let's Connect!
 
 *   **Email:** [abdulla.walidi11@gmail.com](mailto:abdulla.walidi11@gmail.com)
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **Portfolio:** [Your Live Portfolio Link]
+*   **LinkedIn:** https://www.linkedin.com/in/abdullah-walidi-381936327/
+*   **Portfolio:** [[Your Live Portfolio Link]](https://personal-website-chi-one-76.vercel.app/)
