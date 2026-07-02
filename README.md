@@ -3,9 +3,10 @@
 
 I am a Software Engineer specializing in modern frontend & mobile frameworks integrated with robust backend systems. I design, test, and maintain high-performance full-stack applications to solve complex real-world problems.
 
-<marquee scrollamount="5" direction="left" behavior="scroll">
-  🚀 Welcome to my GitHub profile! Check out my projects below.
-</marquee>
+<div align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</div>
+
 
 
 ---
