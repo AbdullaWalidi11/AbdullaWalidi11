@@ -20,6 +20,12 @@ I am a Software Engineer specializing in modern frontend & mobile frameworks int
 | **AI & Machine Learning** | TensorFlow Lite (Edge ML), PyTorch, Python |
 | **Tools & DevOps** | Git & GitHub, Docker, Expo, Vercel |
 
+<br />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,flutter,dart,express,postgres,sqlite,prisma,firebase,tensorflow,pytorch,py,git,docker,vercel" alt="My Skills" />
+</div>
+
+
 ---
 
 ### 🚀 Highlighted Projects
