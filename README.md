@@ -3,34 +3,10 @@
 
 I am a Software Engineer specializing in modern frontend & mobile frameworks integrated with robust backend systems. I design, test, and maintain high-performance full-stack applications to solve complex real-world problems.
 
-<div align="center">
-  <svg fill="none" viewBox="0 0 800 60" width="800" height="60" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <style>
-        @keyframes marquee {
-          0% { transform: translateX(100%); }
-          100% { transform: translateX(-100%); }
-        }
-        .marquee-text {
-          font-size: 24px;
-          font-weight: bold;
-          fill: url(#gradient);
-          animation: marquee 16s linear infinite;
-          white-space: nowrap;
-        }
-        #gradient {
-          gradientUnits: objectBoundingBox;
-        }
-      </style>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#FF3E3E;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#FF7B00;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FFD000;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <text x="0" y="40" class="marquee-text">Designing robust, scalable and intelligent systems</text>
-  </svg>
-</div>
+<marquee scrollamount="5" direction="left" behavior="scroll">
+  🚀 Welcome to my GitHub profile! Check out my projects below.
+</marquee>
+
 
 ---
 
