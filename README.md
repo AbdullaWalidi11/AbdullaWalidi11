@@ -22,7 +22,7 @@ I am a Software Engineer specializing in modern frontend & mobile frameworks int
 
 <br />
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,flutter,dart,express,postgres,sqlite,prisma,firebase,tensorflow,pytorch,py,git,docker,vercel" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,express,postgres,sqlite,prisma,tensorflow,git,docker" alt="My Skills" />
 </div>
 
 
