@@ -4,7 +4,7 @@
 I am a Software Engineer specializing in modern frontend & mobile frameworks integrated with robust backend systems. I design, test, and maintain high-performance full-stack applications to solve complex real-world problems.
 
 <div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="gradient-text.svg" alt="Designing robust, scalable and intelligent systems" width="100%" />
 </div>
 
 
